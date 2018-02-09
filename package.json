@@ -1,0 +1,17 @@
+{
+  "name": "xumin-init",
+  "version": "1.0.27",
+  "description": "",
+  "main": "./init/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "xumin-init": "./init/index.js"
+  },
+  "author": "xumin",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.14.0"
+  }
+}
